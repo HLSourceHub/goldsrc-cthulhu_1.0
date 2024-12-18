@@ -1,0 +1,547 @@
+//TITLES FOR HALF-LIFE
+//DO NOT ALTER THIS FILE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+//INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 1
+// This is the final color
+$color 0 200 0
+// This is the highlight color
+$color2 0 255 0
+// This is the time it takes to fade each character
+$fadein 0.05
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 4.5
+// How long it takes to fade out the message after holding
+$fadeout 2.5
+
+TITLE
+{
+CTHULHU
+An Unspeakable Modification for Half-Life
+by PhilG
+philg@xs4all.nl
+}
+
+//IN GAME MESSAGES
+// All centered for now
+$position -1 -1
+$effect 1
+// This is the final color
+$color 0 200 0
+// This is the highlight color
+$color2 0 255 0
+// This is the time it takes to fade each character
+$fadein 0.2
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 4.0
+// How long it takes to fade out the message after holding
+$fadeout 2.0
+
+TRHINT1
+{
+Find Sir Henry's House
+(It has a bright occult symbol over the door)
+}
+
+TRHINT2
+{
+Ring the doorbell
+}
+
+CHPT2
+{
+The Dream
+}
+
+CHPT3
+{
+Arkham, USA
+1928
+}
+
+CHPT5
+{
+Billinghams Woods
+}
+
+CHPT7
+{
+The Church of the Starry Wisdom
+}
+
+C7HINT
+{
+Locked!
+There may be a way in around the side...
+}
+
+C7BHINT
+{
+You have taken the key to the
+door in the basement
+}
+
+C7CHINT1
+{
+You have taken the Shining Trapezohedron
+}
+
+C7CHINT2
+{
+The inscription on the door reads:
+"To open the door beyond
+Give the Shining Trapezohedron
+To the God within"
+}
+
+CHPT8
+{
+Under Arkham
+}
+
+CHPT9
+{
+The Black Church
+}
+
+CHPT10
+{
+The Ghouls Lair
+}
+
+CHPT12
+{
+The Shadow Over Innsmouth
+}
+
+CHPT12B
+{
+The Esoteric Order of Dagon
+}
+
+CHPT15
+{
+The Mob
+}
+
+CHPT17
+{
+The Dunwich Horror
+}
+
+CHPT19
+{
+Miskatonic University Library
+}
+
+CHPT21
+{
+The City of the Yith
+}
+
+CHPT24
+{
+The Shadow Out Of Time
+}
+
+CHPT26
+{
+R'lyeh
+}
+
+CHPTEPI
+{
+Epilogue
+}
+
+CHPTCRED
+{
+Credits
+}
+
+//FINAL TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 0 200 0
+// This is the highlight color
+$color2 0 255 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 4.0
+// How long it takes to fade out the message after holding
+$fadeout 1.0
+
+THEEND
+{
+The End
+}
+
+//CREDITS
+// All centered for now
+$position -1 -1
+$effect 1
+// This is the final color
+$color 0 200 0
+// This is the highlight color
+$color2 0 255 0
+// This is the time it takes to fade each character
+$fadein 0.05
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 10
+// How long it takes to fade out the message after holding
+$fadeout 2.5
+
+CTHCREDIT0
+{
+CTHULHU
+An Unspeakable Modification for Half-Life
+by PhilG
+philg@xs4all.nl
+
+Voice Acting by FURY
+as@fury161.freeserve.co.uk
+
+Credits may also be found in CREDITS.TXT
+}
+
+CTHCREDIT1
+{
+Special Thanks to:
+
+Valve Software (of course) and Sierra On-Line, for making Half-Life.
+www.valvesoftware.com, www.sierra.com
+
+Planet HalfLife, for being THE place for finding out stuff about Half-Life.
+www.planethalflife.com
+
+Valve Editing Resource Centre (ERC)
+for solving most of my mapping, coding & design problems
+www.valve-erc.com
+
+Spirit of Half Life, by Laurie Cheers
+for making all Half-Life mod developers lives easier.
+laurie@valve-erc.com, spirit.valve-erc.com
+
+Zoner, for his Half-Life tools
+zoner@gearboxsoftware.com, www.valve-erc.com - utilities
+
+The Wadfather, for being a brilliant texture resource centre
+www.wadfather.com
+}
+
+CTHCREDIT2
+{
+Prefab Land, for saving me a lot of work
+and helping me see what other people were up to
+www.nin64.com/prefabland
+
+Game StudioSound, for helping me find the sound help I needed.
+www.gamestudiosound.com
+
+SoundDogs, for additional sounds
+www.sounddogs.com
+
+GenSurf, for making landscapes easy
+David Hyde, rascal@magnolia.net
+
+Wanted HL, for ideas and a couple of sounds
+www.maverickdev.com
+}
+
+CTHCREDIT3
+{
+MODELS
+Used with permission where possible
+(some emails no longer worked, or a no reply was forthcoming)
+
+Neal "Guplik" Corbett, for his Markham model
+modified for the Ranulf player model.
+guplik@pemail.net, www.nealweb.freeserve.co.uk
+
+Outlaws, for the Revolver, Rifle and Shotgun models (modified)
+www.planethalflife.com/outlawsmod
+
+Day of Defeat, for the tommy gun model (slightly modified).
+www.dayofdefeatmod.com
+
+Wizard Wars, for the cultist & priest models, 
+the spellbook world model and the serpent staff.
+www.planethalflife.com/wizardwars
+
+ShiftK, for his "civilian" model
+which I modified into my gangster model.
+shiftk@hotmail.com, shifty.cjb.net 
+}
+
+CTHCREDIT4
+{
+ADDITIONAL MODELS...
+
+The (unfinished) Invasion 1955 mod
+for their civilian & policeman models
+
+They Hunger by Manke
+for inspiration, civilian models and a couple of sounds and prefabs
+www.planethalflife.com/manke
+
+They Hunger Models by Jack Cooper
+cooper@scoast.net
+
+Scarecrow for the excellent Yodan model
+scarecrow@dial.pipex.com
+
+T-Rex model by unknown
+
+Shovel by Markusuetz
+}
+
+CTHCREDIT5
+{
+PREFABS
+Mostly obtained from prefabs.gamedesign.net
+
+Car (modified) - Lucien Alberts(fikky_5000@hotmail.com)
+                   based on the "They Hunger" car
+Trees & bushes - Svante "xerent" Ekholm
+Battleship (modified) - ViVi (howardsimpson@hotmail.com)
+Evil Bed - Damarus (anubis517@hotmail.com)
+Teleporter - Chad Strawinski (chad@artoo.net)
+Battleship - Vivi (jhowardsimpson@hotmail.com)
+Iris Door - BlackRose (blackrose@sydney.crosswinds.net)
+Grandfather Clock - Don Valentine (donvalentine@mail.com)
+Energy Portal - Edward Jonsson [VresiBerba] (vresiberba@hotmail.com)
+Ox Cart - Carsten Schwartz a.k.a. Smike (schwartz_carsten@hotmail.com)
+Tent - Barry A. Bollinger (bxb209@psu.edu)
+Tent - Woof (j.parry@lineone.net)
+Truck - Adam Grebinsky [ShadowByte] (shadow@cadvision.com)
+Sewer Pack - LJ Fields (lj_fields@yahoo.co.uk)
+}
+
+CTHCREDIT6
+{
+TEXTURES
+
+building1.wad & ed_terrain.wad by Evile Dick
+           (EvileDick@digital-e.demon.co.uk)
+cf_mansion.wad & cshrine4hl.wad by Crista Forest,
+             aka "CD Warrior" (cdwarrior@usa.net)
+e7.wad by Yves Allaire aka "evil lair" (hfx@planetquake.com)
+dtex_asylum_01.wad by Dethtex (schwenz@evilfucker.com)
+flamel_arch.wad & sanfroid.wad by unDuLe (undule@tampabay.rr.com)
+muadtexpack1.wad & muadtexpack2.wad by Adam W. Stiles
+                              (muad@planetunreal.com)
+lloyd_tex.wad by Lloyd Morris (WGLKM@eidosnet.co.uk)
+k_kastle_part1.wad by Kman (ag584@ncf.ca)
+venice.wad by Locknut (Locknut@netscape.net)
+texpack3.wad by Sean Johnson (sean@dpsoft.com)
+de_volare.wad by B@tman (illa@hi.hinet.hr)
+
+Also from the following wad files,
+which contained no README.TXT files:
+
+kpur.wad
+ik2k.wad
+thirtiesmain.wad
+thirties2.wad
+zillafinal.wad
+}
+
+CTHCREDIT7
+{
+SKY TEXTURES
+
+Blue: didn't come with a ReadMe file.
+FullMoon: er, not sure where I got this....
+London: Marc Schroeder aka Term (audion@spaceman.de / spaceman@muenster.de)
+Grave: Sock (sock@planetquake.com)
+Oberon: Jason Abbott (jasona@brimstone.com)
+}
+
+CTHCREDIT8
+{
+OTHER CREDITS
+
+H.P. Lovecraft, for creating the Cthulhu Mythos.
+www.hplovecraft.com
+
+Chaosium, for the Call of Cthulhu roleplaying game
+(and not suing me for copyright infringement :-) ).
+www.chaosium.com
+
+Lisa Gerrard, for all of her music
+but especially the track The Rite,
+and the song The Human Game (now playing)
+which I sampled for this mod from her album Duality
+www.lisagerrard.com
+
+The Silent Movie Stars website
+for having some really cool pictures which I turned into portraits.
+silent-movies.com
+
+All the playtesters for this mod.
+
+All my friends & especially my wife Jo
+for putting up with the months I spent on this project.
+}
+
+CTHCREDIT9
+{
+There is a real Cthulhu game due to be released in 2004
+
+Call of Cthuhlu: Dark Corners of the Earth
+www.headfirst.co.uk
+
+If the trailer is anything to go by
+it will be really good!
+}
+
+CTHCREDIT10
+{
+Thank you for playing Cthulhu
+}
+
+// In-Game messages
+$position -1 0.65
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 0.5
+
+GAMESAVED
+{
+Saved...
+}
+
+// Test values -- JAY
+$position -1 0.65
+// Scan-out text effect
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 0 200 50
+// This is the time it takes to fade each character
+$fadein 0.005
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+// Spectator Menu
+Spec_Mode1
+{
+Locked Chase-Camera Mode
+}
+
+Spec_Mode2
+{
+Free Chase-Camera Mode
+}
+
+Spec_Mode3
+{
+Free Roaming Mode
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help
+{
+ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+}
+
+Spec_Help2
+{
+Your text messages can only be seen by other Spectators
+}
+
+// Multiplayer Scoreboard
+Spectators
+{
+Spectators
+}
+
+Unassigned
+{
+Unassigned
+}
+
+TEAMS
+{
+TEAMS
+}
+
+PLAYERS
+{
+PLAYERS
+}
+
+CLASS
+{
+CLASS
+}
+
+SCORE
+{
+SCORE
+}
+
+DEATHS
+{
+DEATHS
+}
+
+LATENCY
+{
+LATENCY
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}

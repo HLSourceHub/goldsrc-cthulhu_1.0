@@ -1,0 +1,12 @@
+// Cthulhu Game definition file - 07/11/03 (that's 7 November 2003 for US readers...)
+game "Cthulhu"
+gamedir "cthulhu"
+url_info "www.xs4all.nl/~philg"
+version "1.0"
+size "123255725"
+cldll "1"
+hlversion "1110"
+gamedll "dlls\cth_hl.dll"
+startmap "chpt1"
+trainmap "cthulhutr1"
+type "Single"

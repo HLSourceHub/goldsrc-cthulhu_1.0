@@ -1,0 +1,558 @@
+
+Cthulhu Walkthrough
+===================
+by PhilG (philg@xs4all.nl)
+
+This walkthrough is not intended to be comrehensive and tell you exactly where every monster, ammo and healthkit is. It is intended to tell you what you need to do at any stage if you get stuck.
+Please do not read all of the walkthrough, as this will spoil the game for you.
+
+Also, if you are using any cheats, this may disrupt the progress of the game...
+
+Background
+==========
+You are Ranulf Stafford, occult investigator in Arkham, New England, USA.
+The year is 1928.
+
+
+Occult Training (aka Hazard Course)
+===================================
+You are next to your car in a street.
+Head forward and to the left and look for the door with the occult symbol over it.
+Press ('use') the doorbell.
+A few seconds later, a butler will answer the door. Go in and through the doors to the right.
+Sir Henry will greet you and tell you to read ('use') the book on the table.
+Read the text (you can read the book again & again).
+Sir Henry will then explain spells (some monsters are not affected by guns & other mundane weapons).
+He will then open the cabinet, revealing a spell book.
+Take the spellbook (The Dread Name of Azathoth).
+Sir Henry will explain that casting spells drains sanity (SAN), which is displayed where "armour" is normally shown in Half-Life.
+Sir Henry will also tell you that you can only regain SAN by defeating a major entity or plot of the occult (i.e. an end of level boss).
+Also, if you reach zero SAN, the game will be over!
+Fade out...
+
+
+Intro & The Dream
+=================
+Watch the intro sequences.
+
+Arkam, USA, 1928
+================
+Return to Sir Henry's house.
+Go into the study.
+Read the note on the table.
+Sir Henry tells you to meet him at his country house in Billinghams Woods.
+Return to your car.
+
+Billinghams Woods
+=================
+The car is blocked by a fallen tree.
+Wander off through the woods until you find the house.
+The front door is locked, as are the panels to the right of the house.
+Go through the gate at the left to the servants entrance.
+Enter the house.
+The house is destered, except for some zombies in the cellar (don't bother going down there).
+There is a swordcane on the table in the front lobby.
+Go upstairs.
+The rooms are empty except for two. One has a ladder going into the attic (again, nothing up here except for a zombie). The other has a cultist (you can tell by the black robes) with a dagger, and a note from Sir Henry on the table by the bed.
+Kill the cultist. Read the note.
+Sir Henry writes that the cultists are going to take him to the Church of the Starry Wisdom in Arkham.
+Go back to the car (some zombies have appeared on the way while you were in the house).
+
+The Church of the Starry Wisdom
+===============================
+You are in another street. You can see The Church of the Starry Wisdom on the left in front of the car (helpfully labelled). The front door is locked.
+Go down the alley (use your flashlight).
+You will see a low window at ground level.
+Smash it and enter.
+There are a few zombies down here.
+There is a door (locked) in the cellar, and some stairs going up. Go up the stairs.
+If you go through the double doors in the main lobby, you enter the main area of the cult. There are a couple of cultists here.
+If you head through the other door in the lobby, you go up some stairs.
+The door next to the pot plant takes you on to a balcony, where there is a cultist with a revolver.
+(Note: sometimes when he is killed, the revolver drops down to the floor below).
+Through the other door is a cultist, a book (read it), a healthkit and a key (next to the healthkit).
+The book tells you a bit about Cthulhu being the High Priest of the Great Old Ones, and that he is trapped in "Sunken R'lyeh" and that when he returns, Mankind will be "swept away".
+Head downstairs and through the door in the basement (the key unlocked it).
+Find some revolver ammo, a healthkit, and some stirs going down.
+Follow the tunnel to find some cells with corpses, skeletons and a zombie (which breaks out).
+You come to a T-junction. Go right.
+The first door on the left contains a torture chamber.
+The second door on the left contains a cultist and some crates (break these).
+Then you come to a dark chamber with a floating glowing crystal. Walk up to the crystal "takes" it.
+When you do this, the room is sealed and a whole bunch of zombies burst in.
+Go through one of the two zombie-holes opposite the door and find the lever. Pull it (this opens the door).
+Escape.
+Head back past the T-junction and down the tunnel.
+You come to a ladder. Climb down.
+A short way further is a door. Opening it will reveal a huge chamber containing, a thing on a raised platform, a priest and two cultists.
+Kill the priest and the two cultists.
+DO NOT ATTACK THE THING.
+If you do, it will get upset and kill you.
+There is a door out of this room. It will open when you approach the thing and give it the crystal (just walk up to it).
+Go through the door.
+
+Under Arkham
+============
+When you turn the corner, a cultist will come and smash the bridge across a river of slime and then run away.
+Jump across the river and kill the cultist.
+Continue and make your way through the slime cavern. Use the levers to operate the pulley car and watch out for the breaking section of ledge.
+Continue to a chamber with a couple of cultists, some crates and a platform lift.
+Use the lever to go up on the platform. There is a cultist with a revolver waiting for you at the top.
+Break the crates. One contains a rifle (zoom capability).
+Continue out into the open.
+Zombies lurk in the undergrowth.
+Continue until you come to some stone walls and can see a wooden watch-tower.
+Kill the cultist at the top of the tower with the rifle.
+There are two more cultists wandering round the walls.
+At the top of the tower is some health and a molotov cocktail.
+
+The Black Church
+================
+You come to a big church surrounded by graves.
+If you look carefully, there are a couple of demon type things flying around (men with bat wings). These are Night Gaunts. Be careful, they are hard to see, silent and vicous. Use the rifle if possible.
+There are also a couple of cultists in the grounds.
+You will also find a newly dug grave with a shovel in it. You will be coming back to this later.
+Enter the church. In the lobby of the church you can either go forward through the big double doors (a bad idea), or go up the ladder to the left.
+At the top of the ladder, there are two cultists with shotguns on patrol.
+(Note: again, when killed, the shotguns often fall to the floor below).
+Witness the rite in progress.
+Kill the priest & cultists. Pick them off from above. There are only 2 cultists with revolvers, so the priest and them should be your first targets.
+Once they are dead, go down the ladder and into the church.
+Notice that there is a rope going up to the ceiling on the left.
+Climb it.
+There is a priest in the room at the top. There is also a book (read it), some ammo and healthkits.
+The book tells about Isiah Marsh, The Deep Ones (children of Dagon), The Esoteric Order of Dagon and Innsmouth. It also says that Isiah is buried in this graveyard, with his spellbook.
+Let's go get it...
+Go back to the graveyard, find the newly dug grave with the shovel and press 'use' on the shovel (you should stand back a little bit to get it to work).
+Watch the sequence of you digging up the grave.
+When it is over, you find yourself looking at a coffin. Get in there and smash it.
+When broken, it reveals a hole beneath it with lots of bones and a skull.
+There is also a tunnel leading off underground.
+
+The Ghoul's Lair
+================
+Once into the main tunnel, head left and keep left.
+Watch out for ghouls. Little nasty buggers, quiet, and quite tough. A single shotgun shot to the head will do them in though.
+Find a rope going down. Climb down it.
+It will lead to a large chamber with an underground lake.
+To the left is a temple. In front of you is a wheel. Use it.
+This will lower a section of walkway to the temple.
+Back up the rope, and wander around until you find two other ropes.
+One leads to the other wheel, which lowers the other section of walkway.
+The other leads to the end of the walkway, allowing you to cross to the temple when both sections are lowered.
+At the temple, you will see two plinths on the front of the altar. One has a skull on.
+Wander around the altar until you find another skull. Pick it up (press 'use').
+Go and put in on the empty plinth (press 'use' again).
+This will cause a section of altar to move back, revealing a key.
+Take it, but this will cause two night gaunts to teleport in, plus a few ghouls to come running from the other side of the walkway.
+The key allows you to open the grate in the pillared chamber that you may have already found while wandering the tunnels.
+Open the grate, climb onto the stone block and take the key.
+When you do this, the ceiling will start to lower, so run away quickly.
+This key will allow you to open the double wooden doors in the tunnels.
+Open them, go left, and the ceiling will collapse, stopping your progress.
+So go back and take the right turn.
+It's a dead end, but on the ground near the end on the right is a small tunnel, covered by roots.
+Smash the roots and crawl through the tunnel.
+(Note: sometimes in playtesting players get stuck in the level transition here. It should be ok if you hug the right hand wall of the tunnel).
+You find yourself in a shaft with wooden planks. Climb up the planks.
+You eventually emerge into a crypt with a ghoul.
+Smash the crypt door and find yourself in another graveyard.
+Wander the graveyard (kill the zombies) until you find the crypt with a light inside.
+Press the panel at the back of the crypt.
+The crypt stone will move to reveal stairs going down.
+Go down, and watch for the night gaunt.
+Follow the tunnel, go through the water, and find yourself on the other side of the cave-in.
+Go left.
+You will come to a shaft going down.
+You need to drop down here onto the small ledges in the corners.
+Be careful.
+You find yourself in another huge chamber, with big double soors opposite and a cage near the ceiling.
+As you head down, the cage descends and opens.
+A civilian walks out and is sacrificed to the big tentacle.
+I recommend staying back.
+And watch out for ghouls.
+Notice that there are 5 stone blocks around the hole in the ground.
+There are also 5 small chambers exiting off the big chamber. This is my tribute to pointless puzzle solving.
+
+Chamber 1
+Shoot the small bock on the end of the pendulum.
+
+Chamber 2
+Push the blocks of crystal onto the symbols on the ground.
+
+Chamber 3
+Climb the rotating arms and press the button at the top.
+
+Chamber 4
+Pull the 3 levers in the right order (right to left)
+
+Chamber 5
+Avoid the spinning blades of death to press the button.
+
+As you complete each chamber, a flame will appear on one of the blocks around the tentacle.
+When all 5 are alight, a pentacle is formed, the tentacle is banished and the doors open.
+Go through the doors.
+
+You come to a room with ammo, health and a spellbook (shrivelling).
+You continue to a big pillared room with a strange blue plinth with another spellbook on it (Drain Life).
+
+Drain Life drains life from another human (it does not work on non-humans) and gives it to you.
+
+Once you take this spellbook, ghouls teleport in. Once killed, they will continue to teleport in until you destroy the 4 crystals between the pillars (near the ceiling).
+Once you do this though, all hell breaks loose and one of the pillars falls over.
+Go through the hole revealed at the base of this pillar and swim through the water.
+You come to a ladder. Go up and break the grate.
+You find yourself in a room with a big crate and some rusty barrels.
+
+You are at the base of a tower.
+There is only one route up.
+
+One of the rooms has a broken ladder. Move the big crate as close as you can to it. Note that this crate is still too tall for you to jump on to it. Then go back to the previous room and push the small crate across the bridge to the broken ladder room. Then you can climb from the little crate, to the big crate and jump on to the big of broken ladder.
+
+At one point a cultist blows up the bridge above you. When you get to the broken section of bridge, shoot the explosive crate that you can see in the room on the other side. This will take care of those annoying cultists. Then you can climb round using the ivy on the wall to your left.
+
+Eventually you will make it out of the tower into the open. A car will drive up and stop. Go up to the car.
+
+The Shadow Over Innsmouth
+=========================
+Welcome to the wet and foggy town of Innsmouth, with its labyrinthine streets and alleys.
+I'm not going to give you a map, but I will tell you what to look for.
+
+1. A door with semi-transparent glass and a cultist behind it. He will probably try to shoot you as you walk past. Kill him, go through the door, upstairs and into a big room with a big crate and a big pair of double doors at the other end. Open the double doors and push the crate out (it will fall down to the ground).
+
+2. A river running across your path. The crate pushed down in (1) can be pushed into the river to get across.
+
+There are also various crates scattered around the town. Some have stuff in them. There are also cultists, priests and deep ones (like zombies, but harder).
+
+Once past the river, you find yourself on the quay. This is a tough section to get past the cultists.
+They are guarding the entrance to The Esoteric Order of Dagon (which is locked).
+However, if you swim round the side, there is a grate underwater. Break it and continue on.
+
+The Esoteric Order of Dagon
+===========================
+There is a deep one guarding the underwater tunnel. This is a bit of a bugger, since you may be running low on oxygen.
+
+You are now in the cellar beneath the church. Break the crates for the health & ammo. Then head on up.
+There are a sequence showing a sacrifice being made. Once done, feel free to take out the cultists and priest.
+Then go to the wheel (next to the lever) and turn it. This will lower the slime in the pit and reveal a tunnel (as well as the skeleton of the poor sacrifice).
+Jump down and enter the tunnel.
+
+This will take you to a network of tunnels, with some deep ones around.
+You will come to a wooden bridge that will break as you cross it. You fall into the water with a Icthyosaur.
+There is an underwater tunnel which leads back to a section that you have already passed (where you waded through some water).
+Go back to the bridge and jump across the gap.
+
+Next you come to an underground river, with a boat moored on it. As you approach, lots of deep ones will emerge from the water.
+Kill them, get in the boat and smash the rope holding it moored.
+Then enjoy the ride, but watch out for barnacles on the ceiling.
+
+The boat will enter a chamber with a wooden jetty with a cultist on it. He will shoot at you, so crouching is a good idea.
+Get off the boat and continue through the tunnels.
+
+You will begin to hear some noises of someone in pain. Soon after you will come to a metal door leading in a basement. Climb the ladder into a storeroom.
+Exiting the storeroom takes you into another room with a cultist, a book and a guy lying on a bed in pain.
+Read the book, which will tell you that Dagon is invulnerable to normal weapons, but may be hurt by fire and magic.
+Once the cultist is dead, approach the guy on the bed. He will say a sentence and then there will be a very messy experience involving some baby headcrabs.
+
+Leave this building and enter the quayside, with a warehouse next to the building that you have just exited.
+Enter the warehouse and deal with the various cultists and a priest inside.
+You will find at the back of the warehouse:
+a) some dynamite
+b) a spellbook (Dread Name - the one from the Occult Training)
+c) a note - read it
+Reading the note has two effects. Firstly you find out that the Finucciaro family have stolen the "Elder Signs", whatever they are (bad for the cultists = good for you, right?). Secondly, a sequence shows a cultist outside summoning Dagon (great big deep one) from the sea, Dagon entering the warehouse and smashing a barrel, and the door to the warehouse closing behind him.
+
+This next bit is tricky.
+Avoid Dagon, because he is tough and hits very hard. Use the Dread Name to repel him and climb on top of the crates (which can only be done from the front of the warehouse). Jump and climb towards the back of the warehouse.
+Once in the middle section of crates, attack Dagon, probably using dynamite (remember, guns don't work). Shrivelling will also work (but uses SAN).
+Once Dagon has reached 50% of his health, a sequence will run, showing the oil from the broken barrel catching fire. This fire will spread quickly.
+Your top priority is now not Dagon, but escape from being roasted alive.
+Head towards the crates at the back of the warehouse. As you jump across to the last row of crates, an explosion causes one of the ceiling beams to collapse.
+You now have a way of getting to the skylight near the front of the warehouse.
+Jump across to the fallen beam. This is really tricky (because of the cross beam blocking you), but it CAN be done, by jumping from near the rear of the crate that you are on.
+Then quickly make your way to the skylight (the heat is building), smash it (I recommend the shotgun) and climb out and jump into the water (try to miss the jetty).
+As you jump from the warehouse, it will finally explode.
+Climbing the ladder out of the water will trigger the transition to the next level.
+
+The Mob
+=======
+
+Once again, we are in a street. Nothing exciting here, so go and investigate the alley.
+This triggers a sequence where the cultists turn up and attempt to raid the Mob's lair to get their Elder Signs back.
+A 3-way fight ensues between the cultists, the mobsters and the lone policeman.
+Wait until the fight is over, then go and mop up the pieces.
+You should be able to pick up your first tommy-gun here as well.
+
+Go through the lounge area into the lobby. Lots of mobsters here, none pleased to see you.
+There are 3 exits out of here; a door on the left of the stairs, a door on the right, and up the stairs.
+Go through the door on the left to a storeroom with lots of supplies.
+Do not go through the door on the right yet.
+Up the stairs head left to a big room with more cultists and some supplies in.
+Up the stairs and to the right you will come to a library (door on the left) containing a book babbling about Yog-Sothoth, a bathroom, a bedroom, a admin office and a main office (with window).
+The main office has a note about an embezzeling accountant.
+Clear out all the mobsters. Then in the main office, you will find a button under the desk. This will make the bookcases move, revealing a vault.
+Now go back downstairs and through the door on the right of the stairs.
+You will find in a cell the accountant mentioned in the note above. There is a key to the cell on a nearby barrel.
+If you take the key, open the cell and lead the accountant all the way back to the main office, he will open the vault.
+Inside the vault are lots of goodies, including 2 Elder Signs. These attach to walls (like tripmines) and keep monsters (but not humans) at bay by repeling them.
+There is also a letter from a Dr Cyrus Whately of Dunwich employing the mobsters to steal the Elder Signs.
+Once you have taken this lot, go back to the car in order to drive to Dunwich to have a little talk with Dr Whately.
+
+The Dunwich Horror
+==================
+
+Dunwich is a town beseiged. The locals cowering in their houses will tell you that there is an invisible monster roaming the countryside.
+If you go to the gate, you will find it locked. Soon a man will come running towards to gate. He will also find it locked, which is a pity for him, because a few seconds later, the invisible monster will kill him, smashing the gate in the process.
+Avoid the monster. It CANNOT be hurt.
+You have to get past it (use the well as an obstacle for it) and run down the valley beyond the smashed gate.
+At the other end of the valley is the Whately farm. There is a big barn and a small house. The barn is locked.
+
+Inside the house is:
+a) the dead Dr Whately (suicide with a knife)
+b) a key on a table
+c) a suicide note, telling about the invisible monster, the powder which will make it visible and vulnerable in the lab under the barn, and the "other experiments" in the barn which can only be harmed by fire or magic.
+
+Take the key and make a break for the barn.
+
+In the barn there are cows and crates.
+Soon after you enter the barn, the cows will start bellowing in pain and exploding as the Formless Spawn inside them complete their gestation.
+Head up onto the platforms above the ground where all the crates are. Note that some of the crates are explosive.
+Push these down over the side and, when a formless spawn is close, shoot the crate.
+Or use dynamite, or Shrivelling.
+
+Once all the Formless Spawn are dead, the crate (if it has not been destroyed) at the rear of the barn on the ground covers a ladder going down to the lab.
+The lab contains:
+
+a) a bottle of Powder of Ibn
+b) a book describing the offspring of Yog-Sothoth
+c) a man in a glass cage with a button next to it. Press the button and transform the man into a zombie who will then break free.
+
+Take the bottle of powder upstairs and outside.
+Now you have to throw the bottle and hit the invisible monster. This is tricky (what with it being invisible).
+If you miss, then go back to your last save, because you cannot progress until you kill this monster and you cannot kill the monster unless you hit it with the bottle (of which there is only one!).
+When you hit the monster, it will slowly become visible. It is not also vulnerable to all weapons.
+Your best strategy now is to hide inside a building and shoot it at your leisure until it is dead.
+When it is dead, return to your car.
+
+The Miskatonic University Library
+=================================
+
+The library is the big building at the other end of the street.
+Note the box infront of it. As you go through the gate, the box breaks and a Formless Spawn grows.
+I recommend using Shrivelling on it.
+
+Inside the library are a number of cultists, plus some healthkits lying around.
+Once they are dead, you will find 3 books on the upper level.
+The left one talks about The Great Race of Yith, who ruled the Earth millions of years ago, and their servants, the Yodan. It also names their capital city.
+The right one talks about Dimensional Shamblers, who walks between dimension.
+The middle one (the dreaded Necronomicon) talks about Cthulhu. There are some really important bits of information here:
+
+1. Cthulhu is imprisoned in his temple by the R'lyeh Seal.
+2. If the seal is destroyed, Cthulhu will be released and will destroy mankind.
+3. The only other R'lyeh Seal was owned by the Great Race of Yith.
+4. If Cthulhu is free, and his body is killed, it will reform again inside his temple a short time later. It is while he is reforming that the temple must be resealed (assuming you have a R'lyeh Seal).
+
+While reading the Necronomicon, a Dimensional Shambler will turn up. These are like zombies in brains and strength, except they can teleport short distances. Keep moving!
+
+Head back to the car, Outside, 3 more Dimensional Shamblers will appear. Deal with them and return to your car.
+
+The City of the Yith
+====================
+
+You find yourself at an archaeological dig. There are poisonous snakes lurking around.
+Inside the big tent is a surviver who tells you about non-humans who killed everyone and controlled snakes. The survivor managed to lock the trapdoor to the dig.
+There is also a key here. Take it and go to the hole.
+At the bottom is a trapdoor. Open it and descend.
+
+In the tunnel, one way is blocked. The other continues to a room with 4 exits.
+Take the left exit. Through the door on the right is a priest and a serpent man (who can summon snakes).
+The serpent man will drop his serpent staff when killed. Pick it up and now you can summon snakes.
+A snake is the best way to deal with another snake.
+The strange creature in here does nothing, except glow when approached.
+To the left is a room with crates and another serpent man.
+Down the tunnel is a room with toxic water flowing downwards in the middle, a cultist and a serpent man.
+Up the otherside are more crates, another serpent man.
+Round the corner is a lava room with a priest.
+Through the door takes you back to the 4-exit room (right hand side).
+
+Going straight on through the 4-exit room takes you to a corridor with a big set of double doors in front of you.
+Through the double doors you will find a serpent man and some lava. There is also a cultist walking on the pathway about you.
+Going left will take you to a vaulted temple room with a serpent man and a couple of cultists. There is a key on the altar at the end. Take this.
+Going right leads you to a grate which is opened by the key in the temple room (above).
+Open the grate and continue along the corridor.
+
+You will come to some more double doors, which lead to the main temple. There is another serpent man here, a couple of cultists and watch out for the priest on the walkway above you. Go through the door at the back of the temple on the right.
+
+The corridor will take you up to the walkway (the one doorway leads to a room with a serpent man and some goodies).
+Croos the walkway and continue down the corridor to the corner.
+
+Soon after you turn the corner, the ground gives way and you fall a long long way into water.
+Swim out of the water in a cave.
+There is a skeleton in here, with a healthkit, rifle and dynamite.
+Go outside into the thunderstorm and you will see a big cliff face to your left. Climb this.
+About two thirds of the way up a cave entrance will shatter as you pass. There is some ammo & health in here.
+At the same time, a Hunting Horror (big flying lizard with teeth) will appear above and start hunting you.
+Hide in the cave and use your rifle.
+Once at the top of the cliff, continue through the opening to the right.
+
+This will lead you to the ruined city of the Yith. However, there is no way in.
+Wander around a bit. After about 20 seconds of passing through the entrance, a section of ground will burst and a Cthonian will emerge (big worm with tentacles at the front that spits acid).
+Kill this and descend through the hole. Follow the passage and you will come to a rope leading up.
+Climb the rops, but be careful of the bad guys waiting at the top.
+
+Climb up the ramp, and follow the corridor until you enter a large room with glass pillars (one leaning over).
+On the level you enter one there are two rooms and a booth.
+The room on the left contains a zombie, a snake and some skeletons.
+The room on the right contains a serpent man.
+The booth is a healing booth. However, once you use it, a section of walkway with break, meaning you cannot return here!
+Descend to the ground level of this room and exit it.
+There are some snakes on the ground level.
+
+A bit further on there is a cavern where is priest and some cultists are performing a rite.
+At the back of this room are a couple of crates with healthkits in.
+
+Continue on and come to a T-junction.
+In the shadows to the right of the T-junction is a serpent man.
+Turn left at the T-junction. At the end of the corridor is a room with a broken piece of strange machinery.
+Before this room is a corridor sloping upwards. Go up here and follow it round. You will come to a room overlooking another room with a priest waiting to ambush you from above.
+Once you have killed him, return to the T-junction and turn right. Go through the room (below the priests ambush). Note the hole to the right with debris at the bottom.
+
+Next there is a small area of rooms with cultists and serpent men in. When crossing the walkway with broken windows, it is a good idea to throw a few snakes down to deal with the cultists below.
+Eventually you will find a circular door (blocked by roots - break these). In the room is a circular glowing portal and cylinders (some broken) with bubbles. There is also a snake in here.
+
+Step into the portal.
+
+The Shadow Out Of Time
+======================
+
+You are still in the same room, but everything is working and nothing is broken.
+You have travelled back in time millions of years.
+You now need to backtrack your steps through the now functioning city.
+
+Here you will find The Great Race (green aliens with pincers) and their Yodan slaves (lizard like bipeds with tails).
+Some are armed only with their claws, others with lightning guns.
+The Yodan are particularly hard, but a shot of the lightning gun to their head will kill them.
+
+When you come to the room that had the hole with debris in, you will find yourself in a trap. The door will close behind you and lasers will start coming towards you.
+Now you know there is a hole in this room, so smash the crate above it, smash the grate and jump down before the lasers get to you.
+This takes you into the sewers beneath the city.
+
+Head into the tunnel and turn left. Go straight ahead and turn right. Follow the corridor and you should come to a room with a waterfall out of a pipe.
+Take the other exit out of the waterfall room and keep going straight ahead, following the corridor as it turns right (past a crossroads).
+The takes you to a door. Beyond it is a machinery room (with a Yodan). One of the panels at the back is usable. Use it.
+
+Head back to the original sewer and take the exit that leads downwards.
+There is a waterwheel here. The panel you just used turned it off.
+Swim under it.
+Follow the sewer to a platform. Ride it up into a store room (with a Yodan).
+Break the crates for the goodies inside.
+
+Exit the storeroom by the door, return past the waterfall room to the crossroads.
+Turn left.
+There should be a blue pipe in front of you. Jump over it.
+Take an immediate left and go through the door at the end of this corridor.
+There is a control room (with Yodan). Kill the Yodan and use the big yellow control panel.
+Return the way you can and continue on, downwards to a crossroad.
+Go right (downwards).
+Follow the corridor to a metal door, which takes you into a long narrow corridor.
+Turn right.
+This takes you to a control room with a Great Race in it.
+Through the glass you can see a machine (like the broken one a while ago) with green light.
+This is a teleporter. The light is because you activated the power.
+However, you still need to raise the glass barrier over the machine and get to the room.
+Press the button on the right hand side of the window.
+This raises the barrier.
+Continue back the way you came and all the way down the long narrow corridor.
+This will take you to a metal door seal up with planks. Break the planks and continue.
+Watch out for the Cthonian and Yodan in this area.
+Head right, and through the corridor, which should bring you back to the blue pipe.
+Over the pipe again, onwards to the crossroads, and straight over and up.
+This will lead you to a big water vat. There is a door opposite you, but no way to get to it.
+There is also a Great Race in a control room behind some glass.
+Jump down into the water.
+There is another door at this level.
+Go through it.
+Continue up and you will come to a Yodan guarding a lift.
+Kill him and go up the lift.
+Kill the Great Race in the control room and use the wheel. This will raise the water level.
+Back down the lift.
+Over the blue pipe to your right, and there is a corridor sloping upwards on your left, but it is too high to get to.
+Push the metal crate until you can jump on it and up into the corridor.
+Head back to the water vat and swim across to the other door.
+This will take you to the teleport room.
+Hooray.
+you teleport to the room where you saw the broken teleport (but it isn't broken now, because this is the past!).
+Watch out for the Yodan through the door.
+
+Head up the sloping corridor and to the control room and kill the bastard Great Race who set the laser trap.
+Press the button next to the window to open the door out of the laser room.
+
+Continue along through the city.
+You will pass the sloping pillars which now lead to the outside.
+A T-Rex will appear as you go past, have a brief investigate and wander off.
+Continue on.
+
+Next is the blue energy pillar room. This is quite a tricky battle with a bunch of Yodan.
+Remember the healing booth at the top though.
+
+Continue onwards.
+You now come to the big room overlooking the outside. Kill the Great Race in here.
+Look out of the window and see the army of Yodan waiting outside.
+Notice the laser barrier to the outside.
+Use the control panel to the right of the window to de-activate the laser barrier.
+The T-Rex will wander in. Enjoy the battle that ensues.
+The T-Rex will probably win, but won't have much health left.
+Go down the ramp to the room you originally entered the city in.
+Press the button by the door to get out.
+Finish off the T-Rex.
+Go over to the green door opposite. Use the panel on the right to open it and continue.
+
+You enter the crystal caverns.
+You come to a big shaft. This is a zsero-gravity shaft, just just drop down.
+You enter a strange chamber with glowing crystals.
+Climb to the top of the weeds where there is a pinth with the R'lyeh Seal on it.
+When you take the seal, there will be explosions and some of the crystals will shatter, releasing a couple of controllers and a couple of alien grunts.
+Take care of them and exit the chamber.
+
+R'lyeh
+======
+
+You witness the island of R'lyeh rising (for real this time, not a dream).
+You are on a boat. Underneath where you are standing are some supplies.
+On the back of the boat are a couple of cannons. The one facing inland works. Practice with it.
+Get off the boat and note that you can either follow the canyon or go into a tunnel to your right.
+Take the tunnel.
+Inside is cave with a deep one and a barnacle.
+There are two other exits from the cave; one down to the canyon (triangle entrance), the other to the rock bridge.
+Cross the rock bridge and kill the deep one in the tunnel on the other side.
+Explore this little system of tunnels thoroughly. It will be important.
+Continue on down the canyon and watch the scripted sequence.
+It's Sir Henry! And he's released Cthulhu!
+Try to take out Sir Henry or at least one cultist with your rifle before Cthulhu notices you and starts towards you.
+IMPORTANT: Cthulhu runs faster than you. Once he is after you, you have JUST enough time to make it to the first tunnel.
+Now you have to have a game of cat & mouse with Cthulhu.
+Go through the tunnels until you emerge on the other side of the rock bridge.
+Go and kill Sir Henry and the cultists if you have not done so already.
+Go back and shoot at Cthuhlu.
+He will pursue you, smashing the rock bridge on the way.
+Get back in the tunnel quick.
+Exit the tunnel at the other end and sneak across behind Cthulhu to the triangle entrance.
+Go through here and make your way back to the boat.
+Get on the cannon and shoot Cthulhu until he starts towards you.
+Then get back into the tunnels fast.
+Continue this process of luring him to one place and then shooting him from a safe distance.
+Eventually you will kill Cthulhu.
+Now run back to the temple as fast as you can, switching to the R'lyeh Seal as you run.
+You will see a big glow which is Cthulhu reforming.
+If you are too slow, he will reform, walk out again and you will be back at square one.
+If you use the R'lyeh Seal on the spike (where Sir Henry smashed the original one), then the doors will close.
+NOTE: you have to use the seal on the spike, and not above it where it will actually appear.
+Once in place, and the doors are closing, the island will start to sink.
+Rocks start crashing down everywhere, so it is time to start running back to the boat.
+Once inside the boat, the end sequence it triggered.
+
+Enjoy the end sequence & credits.
+
+PhilG
+philg@xs4all.nl
+

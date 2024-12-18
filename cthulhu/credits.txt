@@ -1,0 +1,155 @@
+
+Credits for Cthulhu - an unspeakable mod for Half-Life
+======================================================
+by Phil Guy
+www.xs4all.nl/~philg
+email: philg@xs4all.nl
+
+I have used a lot of resources from the internet in this mod.
+I have tried to credit everyone, but some resources did not include a ReadMe.txt file and I simply cannot remember where they came from. So, to those people let me apologise.
+If you see your prefab/texture/whatever in this mod and you are not credited, please let me know and I will credit you!
+
+VOICE ACTING
+============
+Voice Acting by FURY
+as@fury161.freeserve.co.uk
+
+
+General
+=======
+
+Valve Software (of course) and Sierra On-Line, for making Half-Life.
+www.valvesoftware.com, www.sierra.com
+
+Planet HalfLife, for being THE place for finding out stuff about Half-Life.
+www.planethalflife.com
+
+Valve Editing Resource Centre (ERC), for solving most of my mapping/coding/design problems
+www.valve-erc.com
+
+Spirit of Half Life, by Laurie Cheers, for making all Half-Life mod developers lives easier.
+laurie@valve-erc.com, spirit.valve-erc.com
+
+Zoner, for his Half-Life tools
+zoner@gearboxsoftware.com, www.valve-erc.com - utilities
+
+The Wadfather, for being a brilliant texture resource centre
+www.wadfather.com
+
+Prefab Land, for saving me a lot of work and helping me see what other people were up to...
+www.nin64.com/prefabland
+
+Game StudioSound, for helping me find the sound help I needed.
+www.gamestudiosound.com
+
+SoundDogs, for additional sounds
+www.sounddogs.com
+
+David Hyde (rascal@magnolia.net) for GenSurf
+
+Wanted HL, for ideas and a couple of sounds
+www.maverickdev.com
+
+Models
+======
+Neal "Guplik" Corbett, for his Markham model, modified for the Ranulf player model.
+guplik@pemail.net, www.nealweb.freeserve.co.uk
+
+Outlaws, for the Revolver, Rifle and Shotgun models (modified)
+www.planethalflife.com/outlawsmod
+
+Day of Defeat, for the tommy gun model (slightly modified).
+www.dayofdefeatmod.com
+
+Wizard Wars, for the cultist & priest models, the spellbook world model and the serpent staff.
+www.planethalflife.com/wizardwars
+
+ShiftK, for his "civilian" model, which I modified into my gangster model.
+shiftk@hotmail.com, shifty.cjb.net 
+
+The (unfinished) Invasion 1955 mod, for their civilian & policeman models
+
+They Hunger by Manke, for inspiration, a couple of sounds and prefabs...
+www.planethalflife.com/manke
+
+They Hunger Models by Jack Cooper
+cooper@scoast.net
+
+Scarecrow for the excellent Yodan model
+scarecrow@dial.pipex.com
+
+T-Rex model by unknown
+
+Shovel by Markusuetz
+
+
+Prefabs
+=======
+Mostly from http://prefabs.gamedesign.net
+
+Car (modified) - Lucien Alberts(fikky_5000@hotmail.com), based on the "They Hunger" car
+Trees & bushes - Svante "xerent" Ekholm
+Battleship (modified) - ViVi (howardsimpson@hotmail.com)
+Evil Bed - Damarus (anubis517@hotmail.com)
+Teleporter - Chad Strawinski (chad@artoo.net)
+Battleship - Vivi (jhowardsimpson@hotmail.com)
+Iris Door - BlackRose (blackrose@sydney.crosswinds.net)
+Grandfather Clock - Don Valentine (donvalentine@mail.com)
+Energy Portal - Edward Jonsson [VresiBerba] (vresiberba@hotmail.com)
+Ox Cart - Carsten Schwartz a.k.a. Smike (schwartz_carsten@hotmail.com)
+Tent - Barry A. Bollinger (bxb209@psu.edu)
+Tent - Woof (j.parry@lineone.net)
+Truck - Adam Grebinsky [ShadowByte] (shadow@cadvision.com)
+Sewer Pack - LJ Fields (lj_fields@yahoo.co.uk)
+
+
+Textures
+========
+
+building1.wad & ed_terrain.wad by Evile Dick (EvileDick@digital-e.demon.co.uk)
+cf_mansion.wad & cshrine4hl.wad by Crista Forest, aka "CD Warrior" (cdwarrior@usa.net)
+e7.wad by Yves Allaire aka "evil lair" (hfx@planetquake.com)
+dtex_asylum_01.wad by Dethtex (schwenz@evilfucker.com)
+flamel_arch.wad & sanfroid.wad by unDuLe (undule@tampabay.rr.com)
+muadtexpack1.wad & muadtexpack2.wad by Adam W. Stiles (muad@planetunreal.com)
+lloyd_tex.wad by Lloyd Morris (WGLKM@eidosnet.co.uk)
+k_kastle_part1.wad by Kman (ag584@ncf.ca)
+venice.wad by Locknut (Locknut@netscape.net)
+texpack3.wad by Sean Johnson (sean@dpsoft.com)
+de_volare.wad by B@tman (illa@hi.hinet.hr)
+
+Also from the following wad files, which contained no README.TXT files:
+kpur.wad
+ik2k.wad
+thirtiesmain.wad
+thirties2.wad
+zillafinal.wad
+
+
+Sky Textures
+============
+Blue: didn't come with a ReadMe file.
+FullMoon: er, not sure where I got this....
+London: Marc Schroeder aka Term (audion@spaceman.de / spaceman@muenster.de)
+Grave: Sock (sock@planetquake.com)
+Oberon: Jason Abbott (jasona@brimstone.com)
+
+
+Other
+=====
+H.P. Lovecraft, for creating the Cthulhu Mythos.
+www.hplovecraft.com
+
+Chaosium, for the Call of Cthulhu roleplaying game (and not suing me for copyright infringement :-) ).
+www.chaosium.com
+
+Lisa Gerrard, for all of her music, but especially the track The Rite, and the song The Human Game, which I sampled for this mod from her album Duality
+www.lisagerrard.com
+
+The Silent Movie Stars website for having some really cool pictures which I turned into portraits.
+silent-movies.com
+
+All the playtesters for this mod.
+
+All my friends & especially my wife Jo, for putting up with the months I spent on this project.
+
